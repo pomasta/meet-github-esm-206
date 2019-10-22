@@ -22,11 +22,13 @@ b/c the cool animal fact is a 3rd order heading, anything 4+ will be a tab
 #### Ringtail Cats
 ![Courtesy of the VA Zoo](img/ringtail_cat.jpg)
 
-##### Some Ringtail Cat Facts
+##### Ringtail Cats Fun Facts
 
-- It is not actually a cat
+- They can rotate hindfeet 180 degrees to climb better
+- They are NOT endangered, just elusive
+- It is not actually a cat, more closely related to a raccoon. 
 - Can be easily tamed and makes an affectionate pet
-- Reach sexual maturity at ten months
+
 
 #### Great white sharks
 
