@@ -16,6 +16,18 @@ The organization of this document probably seems strange. That's because it's pa
 
 ### Cool animal fun facts {.tabset .tabset-fade}
 
+tabset fade is to fade between the tabs when clicked
+b/c the cool animal fact is a 3rd order heading, anything 4+ will be a tab 
+
+#### Ringtail Cats
+![Courtesy of the VA Zoo](img/ringtail_cat.jpg)
+
+##### Some Ringtail Cat Facts
+
+- It is not actually a cat
+- Can be easily tamed and makes an affectionate pet
+- Reach sexual maturity at ten months
+
 #### Great white sharks
 
 ![Great white at Seal Island, South Africa. Photographer: Chris Brunskill Ltd/Corbis News via Getty Images ](img/great_white.jpg)
